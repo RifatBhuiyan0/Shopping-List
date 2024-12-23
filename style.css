@@ -122,6 +122,10 @@ header h1 {
 .update-color {
     color: rgb(156, 153, 153);
 }
+.container .footer {
+    text-align: center;
+    color: rgb(9, 9, 156);
+}
 
 @media (max-width: 500px) {
   .items li {
